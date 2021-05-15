@@ -38,4 +38,4 @@ Build a Personal Portfolio Webpage
 <li><a href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage">Project Description</a></li>
 <li><a href="https://github.com/baroodkamdi/fcc-WebResponsiveDesign/tree/main/personal-portfolio">Code</a></li>
 <li><a href="https://codepen.io/barood/pen/ExWyxoK">Live Version</a></li>
-</ul><
+</ul>
