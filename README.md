@@ -7,7 +7,7 @@ Build a Tribute Page
 <li><a href="https://github.com/baroodkamdi/fcc-WebResponsiveDesign/tree/main/Tribute-Page">Code</a></li>
 <li><a href="https://codepen.io/barood/pen/abJNQNv">Live Version</a></li>
 </ul>
-<hr>
+***
 Build a Product Landing Page 
 <hr>
 <ul>
@@ -15,7 +15,7 @@ Build a Product Landing Page
 <li><a href="https://github.com/baroodkamdi/fcc-WebResponsiveDesign/tree/main/product-landing-page">Code</a></li>
 <li><a href="https://codepen.io/barood/pen/RwpaEvX">Live Version</a></li>
 </ul>
-<hr>
+***
 Build a Survey Form 
 <hr>
 <ul>
@@ -23,7 +23,7 @@ Build a Survey Form
 <li><a href="https://github.com/baroodkamdi/fcc-WebResponsiveDesign/tree/main/Survey-Form">Code</a></li>
 <li><a href="https://codepen.io/barood/pen/OJpNrmK">Live Version</a></li>
 </ul>
-<hr>
+***
 Build a Technical Documentation Page 
 <hr>
 <ul>
@@ -31,7 +31,7 @@ Build a Technical Documentation Page
 <li><a href="https://github.com/baroodkamdi/fcc-WebResponsiveDesign/tree/main/technical-documentation">Code</a></li>
 <li><a href="https://codepen.io/barood/pen/XWMKWRJ">Live Version</a></li>
 </ul>
-<hr>
+***
 Build a Personal Portfolio Webpage 
 <hr>
 <ul>
